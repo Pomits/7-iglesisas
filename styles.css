@@ -1,0 +1,74 @@
+*{
+    /* color: white; */
+    
+}
+body{
+    background-image: linear-gradient(rgba(255, 0, 0, 0.460), rgba(0, 0, 255, 0.460))
+}
+.img_parro{
+    width: 300px;
+    height: 200px;
+    background-image: url(img/Imagen_parroquia.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+
+}
+
+h1{
+    display: block;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.nave{
+    display: block;
+    background-color: transparent;
+    width: max-content;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.incons{
+    width: 13vw;
+    padding: 5px 20px;
+    text-decoration: none;
+    
+}
+
+
+.op{
+    background-color: transparent;
+    width: max-content;
+    padding: 5px;
+    margin: 0 auto 20px;
+    font-size: 1.6rem;
+}
+
+.cancionero{
+    background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.lecturas{
+    background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.maps{
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
