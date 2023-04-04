@@ -1,9 +1,6 @@
-*{
-    /* color: white; */
-    
-}
+
 body{
-    background-image: linear-gradient(rgba(255, 0, 0, 0.460), rgba(0, 0, 255, 0.460))
+    background-image: linear-gradient(rgba(0, 0, 255, 0.534), rgb(65, 105, 225))
 }
 .img_parro{
     width: 300px;
@@ -51,24 +48,19 @@ p{
     font-size: 1.6rem;
 }
 
-.cancionero{
+.cta{
     background-color: white;
+    color: black;
     text-decoration: none;
     font-weight: bold;
     padding: 10px;
     border-radius: 50px;
 }
 
-.lecturas{
-    background-color: white;
-    text-decoration: none;
-    font-weight: bold;
-    padding: 10px;
-    border-radius: 50px;
-}
 
 .maps{
     display: block;
     width: 100%;
     margin: 0 auto;
 }
+
