@@ -1,6 +1,12 @@
 
+*{
+    text-shadow: 10em;
+    color: white;
+    font-family: 'Alkatra', cursive;
+}
+
 body{
-    background-image: linear-gradient(rgba(0, 0, 255, 0.534), rgb(65, 105, 225))
+    background-image: linear-gradient(rgba(0, 0, 255, 0.836), rgba(65, 105, 225, 0.589))
 }
 .img_parro{
     width: 300px;
@@ -16,11 +22,14 @@ body{
 h1{
     display: block;
     text-align: center;
+    font-size: 3rem;
+    font-weight: 400px;
+
 }
 
 p{
     text-align: center;
-    font-weight: bold;
+    font-weight: 200px;
     font-size: 1rem;
 }
 
@@ -30,12 +39,13 @@ p{
     width: max-content;
     margin: 0 auto;
     margin-bottom: 20px;
+    
 }
 
 .incons{
     width: 13vw;
     padding: 5px 20px;
-    text-decoration: none;
+    color: transparent;
     
 }
 
@@ -63,4 +73,3 @@ p{
     width: 100%;
     margin: 0 auto;
 }
-
